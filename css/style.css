@@ -1,0 +1,52 @@
+body{
+    font-family: sans-serif;
+}
+
+.navbar{
+    background-color: #A78A7F;
+    padding-left: 35%;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h3{
+    margin-bottom: 30px;
+}
+
+.quemSomos{
+    background-color: #9DBEBB;
+    color:white;
+}
+
+.parceiros{
+    background-color: #BEC5AD;
+    color:white;
+}
+
+.servicos{
+    background-color: #F7F9F7;
+}
+
+.logoParceiros{
+    padding: 20px;
+    width: 70%;
+}
+
+.descricaoServicos{
+    text-align: justify;
+}
+
+@media screen and (max-width:767px){
+    .descricaoServicos{
+        margin-top: 30px;
+        text-align: justify;
+    }
+}
